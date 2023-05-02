@@ -1,0 +1,5 @@
+#request - the password
+string password
+---
+#response - the expected key if the password is correct
+uint8[] key
